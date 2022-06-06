@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **files in vscode**
 
-- 👨‍💻 All of my projects are available at [https://tanya-reina.netlify.app/#](https://tanya-reina.netlify.app/#)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **ideas or prototypes**
 
