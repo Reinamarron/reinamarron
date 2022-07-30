@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **an app to help budget money**
 
-- 🌱 I’m currently learning **JavaScript, React, Mongo.db**
+- 🌱 I’m currently using **JavaScript, React, Mongo.db**
 
-- 👯 I’m looking to collaborate on **open source projects related to accessibility**
+- 👯 I’m looking to collaborate on **open source projects related to health**
 
 - 🤝 I’m looking for help with **files in vscode**
 
