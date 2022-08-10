@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **an app to help budget money**
 
-- 🌱 I’m currently using **JavaScript, React, Mongo.db**
+- 🌱 I’m currently using **JavaScript, React, Mongo.db**, EJS, Node
 
 - 👯 I’m looking to collaborate on **open source projects related to health**
 
