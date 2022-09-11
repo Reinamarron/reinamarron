@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ideas or prototypes**
 
-- 📫 How to reach me **https://twitter.com/reinamarron**
+- 📫 How to reach me **https://twitter.com/reinamarron** **https://www.linkedin.com/in/tanyareina**
 
 - ⚡ I once went parasailing over Hussain Sagar Lake in Hyderabad, Telangana. **I love westerns**
 
