@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects related to health**
 
-- 🤝 I’m looking for help with **files in vscode**
-
 - 👨‍💻 All of my projects are available at https://tanyareina.netlify.app/
 
 - 💬 Ask me about **ideas or prototypes**
