@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Tanya Reina</h1>
 <h3 align="center">A passionate full-stack engineer from Florida</h3>
 
